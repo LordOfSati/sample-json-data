@@ -1,0 +1,121 @@
+[{
+        "_id": NumberInt(1),
+        "name": "The Shawshank Redemption",
+        "year": NumberInt(1994),
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "length": NumberInt(142),
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "_id": NumberInt(2),
+        "name": "The Godfather",
+        "year": NumberInt(1972),
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "length": NumberInt(175),
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "_id": NumberInt(3),
+        "name": "The Godfather: Part II",
+        "year": NumberInt(1974),
+        "description": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "length": NumberInt(202),
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "_id": NumberInt(4),
+        "name": "The Dark Knight",
+        "year": NumberInt(2008),
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "length": NumberInt(152),
+        "genre": ["Action", "Crime", "Drama", "Thriller"]
+    },
+    {
+        "_id": NumberInt(5),
+        "name": "12 Angry Men",
+        "year": NumberInt(1957),
+        "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "length": NumberInt(96),
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "_id": NumberInt(6),
+        "name": "Schindler's List",
+        "year": NumberInt(1993),
+        "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+        "length": NumberInt(195),
+        "genre": ["Biography", "Drama", "History"]
+    },
+    {
+        "_id": NumberInt(7),
+        "name": "Pulp Fiction",
+        "year": NumberInt(1994),
+        "description": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "length": NumberInt(154),
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "_id": NumberInt(8),
+        "name": "The Lord of the Rings: The Return of the King",
+        "year": NumberInt(2003),
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "length": NumberInt(201),
+        "genre": ["Adventure", "Drama", "Fantasy"]
+    },
+    {
+        "_id": NumberInt(9),
+        "name": "The Good, the Bad and the Ugly",
+        "year": NumberInt(1966),
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "length": NumberInt(161),
+        "genre": ["Western"]
+    },
+    {
+        "_id": NumberInt(10),
+        "name": "Fight Club",
+        "year": NumberInt(1999),
+        "description": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
+        "length": NumberInt(139),
+        "genre": ["Drama"]
+    },
+    {
+        "_id": NumberInt(11),
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": NumberInt(2001),
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
+        "length": NumberInt(178),
+        "genre": ["Adventure", "Drama", "Fantasy"]
+    },
+    {
+        "_id": NumberInt(12),
+        "name": "Forrest Gump",
+        "year": NumberInt(1994),
+        "description": "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+        "length": NumberInt(142),
+        "genre": [ "Drama", "Romance"]
+    },
+    {
+        "_id": NumberInt(13),
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": NumberInt(1980),
+        "description": "After the rebels are overpowered by the Empire on their newly established base, Luke Skywalker begins Jedi training with Master Yoda. His friends accept shelter from a questionable ally as Darth Vader hunts them in a plan to capture Luke.",
+        "length": NumberInt(124),
+        "genre": [ "Action", "Adventure", "Fantasy", "Sci-Fi"]
+    },
+    {
+        "_id": NumberInt(14),
+        "name": "Inception",
+        "year": NumberInt(2010),
+        "description": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+        "length": NumberInt(148),
+        "genre": ["Action", "Adventure", "Thriller", "Sci-Fi"]
+    },
+    {
+        "_id": NumberInt(15),
+        "name": "The Lord of the Rings: The Two Towers",
+        "year": NumberInt(2002),
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "length": NumberInt(179),
+        "genre": [ "Adventure", "Drama", "Fantasy"]
+    }
+]
